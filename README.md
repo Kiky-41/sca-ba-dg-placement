@@ -1,4 +1,5 @@
 # 📍 SCA-BA for Distributed Generation Placement in Power Systems
+[![DOI](https://zenodo.org/badge/1205068047.svg)](https://doi.org/10.5281/zenodo.19473443)
 
 Metaheuristic optimization framework combining **Sine-Cosine Algorithm (SCA)** and **Bat Algorithm (BA)** for optimal placement of **Distributed Generation (DG)** units in power distribution systems.
 
